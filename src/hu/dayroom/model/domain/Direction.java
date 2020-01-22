@@ -3,8 +3,8 @@ package hu.dayroom.model.domain;
 import java.util.Arrays;
 
 public enum Direction {
-    In("be"),
-    Out("ki");
+    IN("be"),
+    OUT("ki");
 
     private final String name;
 
